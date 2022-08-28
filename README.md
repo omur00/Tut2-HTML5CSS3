@@ -2,4 +2,4 @@
 Intermediate HTML, CSS, JQuery, JS, Animate.css one page practice - Restaurant website.
 
 
-![enter image description here](https://i.ibb.co/4mXf6vw/J222d2q.gif)
+![](https://i.ibb.co/Zxt9zBZ/133d7g3h1.png)
